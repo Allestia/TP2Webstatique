@@ -6,7 +6,7 @@ span.label{font-weight: bold;font-style: normal;}
 h2{font-size:1em;color:#CC6600; text-align: center;text-transform: uppercase;letter-spacing: 8px;}/*on garde la meme taille que body pour les h2 c'est a dire 16px*/
 h1{font-family: 'Marko One', serif; font-size: 1.5em;color:#993399; font-style: normal; text-shadow:.2em .2em #D3D3D3;}/*les h1 doivent faire 24px donc 1.5 fois la taille des h2*/
 span.price{font-family: Georgia;color:#808080;font-style:italic;}
-
+#appetizers ul{list-style-type:none;}
 div dt{color:#A0522D; font-weight: bold;}
 dt.newitem strong,dd strong{color:#FF6347;font-style: italic;}
 p.warning{color:#FF0000;}

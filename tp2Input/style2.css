@@ -4,3 +4,8 @@ body{
 #div1{
     background-color: white; opacity: 0.5;;
 }
+#appetizers ul li{text-decoration: none;}
+#appetizers ul li:link{color:#993399 ;}
+#appetizers ul li:visited{color:#937393 ;}
+#appetizers ul li:focus{color :#C700F2;background: #FFC0CB;}
+#appetizers ul li:hover{color :#C700F2;background: #FFC0CB;}
