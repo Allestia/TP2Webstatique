@@ -1,0 +1,4 @@
+body{background-image: url(images/blackgoose.png);background-position: center; background-repeat: no-repeat; background-attachment: scroll;}
+#div1{background-image: url(images/gooseshadow.png),url(images/purpledot.png), url(images/purpledot.png);
+background-position:90% 100%, left, right ;
+background-repeat: no-repeat, repeat-y, repeat-y;}
