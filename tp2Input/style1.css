@@ -12,4 +12,5 @@ dt.newitem strong,dd strong{color:#FF6347;font-style: italic;}
 p.warning{color:#FF0000;}
 li.c1{list-style-type: lower-roman;}
 li.c2{list-style-type: circle;}
-li.c3{text-indent: 2em; list-style-type: disc;}
+li.c3{text-indent: 2em; list-style-type: disc;list-style-position: inside;}
+li.c4{list-style-image: url("images/bull.png");font-size: xx-large;}
